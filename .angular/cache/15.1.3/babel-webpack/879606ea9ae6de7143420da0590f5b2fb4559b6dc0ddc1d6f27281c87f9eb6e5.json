@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const exampleProducts = [{\n  id: '1',\n  name: 'Product 1',\n  price: 100\n}, {\n  id: '2',\n  name: 'Product 2',\n  price: 200\n}];","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
